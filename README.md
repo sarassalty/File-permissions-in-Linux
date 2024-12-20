@@ -33,7 +33,7 @@ researcher2@823274a7ed46:~/projects$ chmod g-x drafts
 ```
 
 ## Check file and directory details
-I used the ls -l command to display the list of the permissions set for files and subdirectories in the projects directory.
+I used the ```ls -l``` command to display the list of the permissions set for files and subdirectories in the ```projects``` directory.
 
 ```
 researcher2@823274a7ed46:~/projects$ ls -l
