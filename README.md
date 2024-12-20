@@ -3,6 +3,11 @@
 > [!NOTE]
 > This exercise is a component of the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) program. It's designed as a simulated scenario to solidify my understanding of "Tools of the Trade: Linux and SQL."
 
+## Scenario
+You are a security professional at a large organization. You mainly work with their research team. Part of your job is to ensure users on this team are authorized with the appropriate permissions. This helps keep the system secure. 
+
+Your task is to examine existing permissions on the file system. You’ll need to determine if the permissions match the authorization that should be given. If they do not match, you’ll need to modify the permissions to authorize the appropriate users and remove any unauthorized access.
+
 ## Project description
 This project models a real-world security scenario where a security professional manages file and directory permissions. Using Linux command-line tools like chmod, I’ll review current permissions, identify security risks, and adjust settings to meet security standards. This helps protect confidential research data and ensure the system integrity.
 ```
